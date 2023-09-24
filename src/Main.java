@@ -4,7 +4,7 @@ public class Main {
     {
         Human[] HumanArray = new Human[9];
         HumanArray[0] = new Kid();
-        HumanArray[1] = new Kid("Зенькович Никита Маромахович");
+        HumanArray[1] = new Kid("Зенькович Artem Маромахович");
         HumanArray[2] = new Kid("Василенко Геннадий Андреевич","Мужской",6,3);
         HumanArray[3] = new teenager("Фарфорова Екатерина Юрьевна","Женский",15,61,"Хорошая");
         HumanArray[4] = new teenager("Николаева Ева Павловна");
